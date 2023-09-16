@@ -1,1 +1,1 @@
-Nuevo documento init.txt
+Segundo nuevo documento init.txt
